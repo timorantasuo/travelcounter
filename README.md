@@ -4,10 +4,16 @@ Travel Counter created for Rijn IJssel
 Summary of the project Travel Counter. What have been done, what hasn’t been done yet.
 Functions that have been done:
 1.	Login
+
 2.	Registration
+
+
 3.	Travel Counter: Distance calculator
+
 4.	Counter: See your own travels
+
 5.	Admin pages*
+
 6.	User management
 
 Functions that are not done yet:
