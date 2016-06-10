@@ -19,7 +19,7 @@ Functions that have been done:
 
 Functions that are not done yet:
 
-1.	* Properly check admin and user status in session.php and if user is not admin, prevent user to use those pages. 
+1.	*Properly check admin and user status in session.php and if user is not admin, prevent user to use those pages. 
 
 2.	Use default address if given in settings, set the address to one of the fields when calculating the address.
 
