@@ -1,0 +1,33 @@
+.logo {
+	align-content:center;
+	float:none;
+	margin: auto;
+	padding-top:20px;
+
+
+}
+
+
+
+html, body {
+	height:100%;
+	}
+html {
+	display:table; width:100%;
+	}
+body {
+	display:table-cell; text-align:center; vertical-align:auto;
+	}
+
+
+
+.form-group {
+	margin:auto;
+	padding-bottom:15px;
+	width:auto;
+}
+
+.button {
+	
+	
+	}
