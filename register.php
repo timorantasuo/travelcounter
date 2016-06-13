@@ -223,7 +223,7 @@ ddsmoothmenu.init({
                       <div class="modal-content">
                         <span class="close">x</span>
                         <h2>How to register to Travel Counter</h2><br><br>
-                        <p><b>First step:</b> Try to remember your employee ID. With this, employer can identify you when he or she is checking your travel data.<br><b>Second step:</b> Give your email. Note: Please preffer to your work email address rather than your personal. <br><b>Third step:</b> Give your first name and family name.<br> <b>Fourth step:</b> Give a valid password. Password must contain at least 4 letters/digits or special letters. After that, confirm your password.<br><b>Fifth step:</b> Give your date of birth in THIS order: Year - Month - Day. For example: 1998-10-16.<br><br> Thats it, go ahead and register and start using Travel Counter.</p>
+                        <p><b>First step:</b> Try to remember your employee ID. With this, employer can identify you when he or she is checking your travel data.<br><b>Second step:</b> Give your email. Note: Please prefer to your work email address rather than your personal. <br><b>Third step:</b> Give your first name and family name.<br> <b>Fourth step:</b> Give a valid password. Password must contain at least 4 letters/digits or special letters. After that, confirm your password.<br><b>Fifth step:</b> Give your date of birth in THIS order: Year - Month - Day. For example: 1998-10-16.<br><br> Thats it, go ahead and register and start using Travel Counter.</p>
                       </div>
 
 </div>
