@@ -1,5 +1,6 @@
 Summary of the project Travel Counter. What have been done, what hasn’t been done yet.
 Functions that have been done:
+
 1.	Login
 
 2.	Registration
@@ -13,6 +14,7 @@ Functions that have been done:
 6.	User management
 
 Functions that are not done yet:
+
 1.	*Properly check admin and user status in session.php and if user is not admin, prevent user to use those pages. 
 
 2.	Use default address if given in settings, set the default address button to one of the fields when calculating the address.
@@ -22,6 +24,7 @@ Functions that are not done yet:
 4.	Responsive design, isn’t working yet. Fonts are messed up when window is smaller.
 
 Functions that hasn’t been done yet:
+
 1.	Purpose of the travel, add a field to Counter after address fields.
 
 2.	Add info boxes and pop-ups to pages if needed.
@@ -37,6 +40,7 @@ Functions that hasn’t been done yet:
 7.	Use only the shortest route, not shortest time, use shortest distance
 
 Functions that could be useful:
+
 1.	Turn date of birth field in this form: DD-MM-YYYY and add date picker.
 
 2.	Fill address fields to automatically fill the full address when distance is calculated. More info in this site.
