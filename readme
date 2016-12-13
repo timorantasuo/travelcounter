@@ -25,7 +25,7 @@ Functions that are not done yet:
 
 Functions that hasn’t been done yet:
 
-1.	Purpose of the travel, add a field to Counter after address fields.
+1.	Purpose of the travel, add a field to Counter after address fields. (done)
 
 2.	Add info boxes and pop-ups to pages if needed.
 
@@ -47,7 +47,7 @@ Functions that could be useful:
 
 3.	Show map if user wants to, otherwise keep it hidden
 
-4.	User dashboard cards, that leads to other sites, disable the flip animation and put a fade animation after 3-5 seconds that shows the info.
+4.	User dashboard cards, that leads to other sites, disable the flip animation and put a fade animation after 3-5 seconds that shows the info. (done by mistake)
 
 5.	Make modal boxes to admin page, when checking travel data.
 
